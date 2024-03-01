@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="./css-art-is-awesome.png">
+  <img height="175" src="./css-art-is-awesome.png">
   <h1>Awesome CSS Art</h1>
   <i>Design with CSS code, without images!</i>
 </div>
@@ -68,7 +68,7 @@
 
 - 🤖 GLaDOS Potato · [GitHub](https://github.com/ManzDev/twitch-glados-potato) · [Demo](https://manzdev.github.io/twitch-glados-potato)
 - 🔲 Companion Cube · [GitHub](https://github.com/ManzDev/twitch-companion-cube) · [Demo](https://manzdev.github.io/twitch-companion-cube)
-- 🎮 Turret Component · [GitHub](https://github.com/ManzDev/twitch-turret-component) · [Demo](https://manzdev.github.io/twitch-turret-component)
+- 🎮 Turret Portal · [GitHub](https://github.com/ManzDev/twitch-turret) · [Demo](https://manzdev.github.io/twitch-turret/)
 - 🤖 Bender · [GitHub](https://github.com/ManzDev/twitch-bender) · [Demo](https://manzdev.github.io/twitch-bender)
 - 🤖 Wall-E Eve · [GitHub](https://github.com/ManzDev/twitch-wall-e-eve) · [Demo](https://manzdev.github.io/twitch-wall-e-eve)
 - 🤖 Robotnik · [GitHub](https://github.com/ManzDev/twitch-robotnik) · [Demo](https://manzdev.github.io/twitch-robotnik)
