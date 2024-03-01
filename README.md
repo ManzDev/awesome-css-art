@@ -21,11 +21,15 @@
 - 🎮 PlayStation Portable (PSP) · [GitHub](https://github.com/ManzDev/twitch-psp) · [Demo](https://manzdev.github.io/twitch-psp)
 - 🥚 Javagotchi · [GitHub](https://github.com/ManzDev/javagotchi) · [Demo](https://manzdev.github.io/javagotchi)
 
+![GameBoy CSS](gameboy-css.png)
+
 ### 👾 Entertainment
 
 - 🤖 Punko Fop (Funko Pop Box) · [GitHub](https://github.com/ManzDev/twitch-punko-fop) · [Demo](https://manzdev.github.io/twitch-punko-fop)
 - 🕹️ Claw Machine · [GitHub](https://github.com/ManzDev/twitch-claw-machine) · [Demo](https://manzdev.github.io/twitch-claw-machine)
 - 🌌 Solar System · [GitHub](https://github.com/ManzDev/twitch-solar-system) · [Demo](https://manzdev.github.io/twitch-solar-system)
+
+![Funko CSS](funko-css.png)
 
 ### 💾 Retro
 
@@ -40,6 +44,8 @@
 - 🎹 Casio PT1 Piano · [GitHub](https://github.com/ManzDev/twitch-casio-pt1) · [Demo](https://manzdev.github.io/twitch-casio-pt1)
 - 🎹 Casio Calculator FX39 · [GitHub](https://github.com/ManzDev/twitch-casio-fx39) · [Demo](https://manzdev.github.io/twitch-casio-fx39)
 - 📱 Nokia 3310 · [GitHub](https://github.com/ManzDev/twitch-nokia3310) · [Demo](https://manzdev.github.io/twitch-nokia3310)
+
+![Casio CSS](casio-css.png)
 
 ### 📺 Devices
 
@@ -106,10 +112,10 @@
 ### UI
 
 - 💾 Microsoft Scandisk · [GitHub](https://github.com/ManzDev/twitch-scandisk) · [Demo](https://manzdev.github.io/twitch-scandisk)
-- ⚽ PCFutbol · [GitHub](https://github.com/ManzDev/twitch-pcfutbol) · [Demo](https://manzdev.github.io/twitch-pcfutbol)
-- 🌙 After Dark · [GitHub](https://github.com/ManzDev/twitch-after-dark) · [Demo](https://manzdev.github.io/twitch-after-dark)
+- ⚽ PC Futbol UI · [GitHub](https://github.com/ManzDev/twitch-pcfutbol) · [Demo](https://manzdev.github.io/twitch-pcfutbol)
+- 🌙 After Dark Screensaver · [GitHub](https://github.com/ManzDev/twitch-after-dark) · [Demo](https://manzdev.github.io/twitch-after-dark)
 - ⚽ CSS Futbol · [GitHub](https://github.com/ManzDev/css-futbol) · [Demo](https://manzdev.github.io/css-futbol)
-- 💻 Win95 · [GitHub](https://github.com/ManzDev/twitch-win95) · [Demo](https://manzdev.github.io/twitch-win95)
+- 💻 Windows 95 CSS · [GitHub](https://github.com/ManzDev/twitch-win95) · [Demo](https://manzdev.github.io/twitch-win95)
 
 ---
 
