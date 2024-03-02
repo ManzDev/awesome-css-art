@@ -54,6 +54,7 @@
 - 🎮 ZX Spectrum · [GitHub](https://github.com/ManzDev/twitch-zx-spectrum) · [Demo](https://manzdev.github.io/twitch-zx-spectrum)
 - ⌨️ Keyboard CSS · [GitHub](https://github.com/ManzDev/twitch-keyboard) · [Demo](https://manzdev.github.io/twitch-keyboard)
 
+![ZX Spectrum CSS](zx-spectrum.png)
 
 ### 🧙‍♂️ SciFi/Fantasy
 
@@ -63,12 +64,16 @@
 - 🔨 Stormbreaker · [GitHub](https://github.com/ManzDev/twitch-stormbreaker) · [Demo](https://manzdev.github.io/twitch-stormbreaker)
 - 🎥 Manz9000 OBS · [GitHub](https://github.com/ManzDev/twitch-manz9000-obs) · [Demo](https://manzdev.github.io/twitch-manz9000-obs)
 
+![Stormbreaker CSS](stormbreaker-css.png)
+
 ### 🌌 StarWars
 
 - 🤖 AT-AT · [GitHub](https://github.com/ManzDev/twitch-at-at) · [Demo](https://manzdev.github.io/twitch-at-at)
 - 🔦 Lightsaber · [GitHub](https://github.com/ManzDev/twitch-lightsaber) · [Demo](https://manzdev.github.io/twitch-lightsaber)
 - 🚀 Millennium Falcon · [GitHub](https://github.com/ManzDev/twitch-millennium-falcon) · [Demo](https://manzdev.github.io/twitch-millennium-falcon)
 - 🤖 R2D2 · [GitHub](https://github.com/ManzDev/twitch-r2d2) · [Demo](https://manzdev.github.io/twitch-r2d2)
+
+![Lightsaber CSS](lightsaber-css.png)
 
 ### 🤖 Robots
 
@@ -94,7 +99,7 @@
 - 😀 Face Generator · [GitHub](https://github.com/ManzDev/twitch-face-generator) · [Demo](https://manzdev.github.io/twitch-face-generator)
 - 🍩 Homer CSS · [GitHub](https://github.com/ManzDev/homer-meme-css) · [Demo](https://manzdev.github.io/homer-meme-css)
 
-### Pokémon
+### ⚡ Pokémon
 
 - 👻 Gengar · [GitHub](https://github.com/ManzDev/twitch-gengar) · [Demo](https://manzdev.github.io/twitch-gengar)
 - 👻 Haunter · [GitHub](https://github.com/ManzDev/twitch-haunter) · [Demo](https://manzdev.github.io/twitch-haunter)
@@ -109,7 +114,7 @@
 - 🎃 Halloween 2023 · [GitHub](https://github.com/ManzDev/twitch-halloween-2023) · [Demo](https://manzdev.github.io/twitch-halloween-2023)
 - 🎅 Xmas 2021 · [GitHub](https://github.com/ManzDev/twitch-xmas-2021) · [Demo](https://manzdev.github.io/twitch-xmas-2021)
 
-### UI
+### 🖥 UI
 
 - 💾 Microsoft Scandisk · [GitHub](https://github.com/ManzDev/twitch-scandisk) · [Demo](https://manzdev.github.io/twitch-scandisk)
 - ⚽ PC Futbol UI · [GitHub](https://github.com/ManzDev/twitch-pcfutbol) · [Demo](https://manzdev.github.io/twitch-pcfutbol)
